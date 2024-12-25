@@ -7,7 +7,7 @@
 - JavaScript
 - Leaflet.js
 ## デモリンク
-[GitHub Pages](file:///C:/Users/owner/Downloads/sample1/sample1.html)
+[GitHub Pages]+(file:///C:/Users/owner/Downloads/sample1/sample1.html)
 
 ## 今後の課題
 - データを動的に更新する。
